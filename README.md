@@ -9,7 +9,7 @@
 ## Laser Cutting
 
 **b. Include a photo of your box here.** <br>
-[Usless Box in Studio](/uselessbox.JPG)
+![alt text](/uselessbox.JPG)
 
 ## Electronics
 
