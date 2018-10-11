@@ -3,7 +3,7 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.** <br>
-[My Bopper](/bopper.JPG) <br>
+![alt text](/bopper.JPG) <br>
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.** <br>
 [bopper template](/bopper-template.ai)
 ## Laser Cutting
