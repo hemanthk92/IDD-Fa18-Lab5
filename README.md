@@ -2,12 +2,14 @@
 
 ## 3D Printing
 
-**a. Include a photo of your printed part here.**
-**b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
-
+**a. Include a photo of your printed part here.** <br>
+[My Bopper](/bopper.JPG) <br>
+**b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.** <br>
+[bopper template](/bopper-template.ai)
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+[Usless Box in Studio](/uselessbox.JPG)
 
 ## Electronics
 
@@ -17,6 +19,9 @@
 
 Include here:
 1. Your Arduino code.
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+2. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
+3. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
+4. A video of your useless box in action. <br>
+[Video of Box in Action](https://youtu.be/vZ8F3mKPzds)
+
+
