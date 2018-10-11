@@ -17,9 +17,9 @@ I laser cut my bopper with acrylic material. I used Adobe Illustrator.
 **c. Upload code & a photo of your electronic circuit here.**
 <br>
 Circuit Outside Box <br>
-![alt text](/circuitOutsideBox.JPG)<br>
+![alt text](/circuitOutsideBox.PNG)<br>
 Circuit Inside Box <br>
-![alt text](/circuitInBox.JPG) <br>
+![alt text](/circuitInBox.PNG) <br>
 [link to code](/uselessbox.ino)
 
 
