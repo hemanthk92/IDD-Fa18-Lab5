@@ -25,6 +25,8 @@ Circuit Inside Box <br>
 **d. A video of your useless box in action.** <br>
 [Video of Box in Action](https://youtu.be/vZ8F3mKPzds)
 <br>
+As the video shows, hitting the switch does trigger the Servo motor run and moves the bopper to hit the switch above. <br>
+However, my useless box did not completly work. I was able to make the bopper hit the switch but it wasn't hitting the switch with enough power or the correct angle to move the switch back to its original position. I tried changing the rotation arc of the booper in the code and moving the servo motor within the box. These changes helped and made me hit the switch with more force but still wasn't enough to tilt the switch. Also my bopper was vibrating after it hit the switch and this could have caused it to lose force and thus not hit the switch hard enough. If I had more time, I would have tried better harnasing the sevro motor to bopper, I think this loose connection caused the vibrations.  <br>
 ## Putting it All Together
 
 Include here:
