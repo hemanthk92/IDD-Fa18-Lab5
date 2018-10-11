@@ -5,6 +5,7 @@
 **a. Include a photo of your printed part here.** <br>
 ![alt text](/bopper.JPG) <br>
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.** <br>
+I laser cut my bopper with acrylic material. I used Adobe Illustrator.
 [bopper template](/bopper-template.ai)
 ## Laser Cutting
 
@@ -14,6 +15,13 @@
 ## Electronics
 
 **c. Upload code & a photo of your electronic circuit here.**
+<br>
+Circuit Outside Box <br>
+![alt text](/circuitOutsideBox.JPG)<br>
+Circuit Inside Box <br>
+![alt text](/circuitInBox.JPG) <br>
+[link to code](/uselessbox.ino)
+
 
 ## Putting it All Together
 
