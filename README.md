@@ -8,7 +8,7 @@
 [bopper template](/bopper-template.ai)
 ## Laser Cutting
 
-**b. Include a photo of your box here.**
+**b. Include a photo of your box here.** <br>
 [Usless Box in Studio](/uselessbox.JPG)
 
 ## Electronics
